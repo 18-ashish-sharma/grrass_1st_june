@@ -1,0 +1,15 @@
+Browser has three parts:
+
+1 - HTML -> Structure of a page (website)
+2 - CSS - > style of the page (Cascading Style Sheets)
+3 - Javascript -> (onClick events etc...)
+
+
+Inline styles:
+<ul style="list-style-type: none">
+
+<div></div> -> used for dividing elements
+
+CSS learning: 'https://www.w3schools.com/css/default.asp'
+
+CSS game: ''
