@@ -1,0 +1,21 @@
+Commands Used:
+
+Git add <filename>   - add changes to stage. 
+
+Git commit -m “msg”   - commit our stage changes 
+
+Git push - push code to github 
+
+Git pull - pull changes from github 
+
+Git clone <url> - github repo clone to your system 
+
+Git checkout -b <name> - create a new branch 
+
+Git checkout <name> - to go the a particular branch 
+
+Create pull request - on github 
+
+Merge to main - on github 
+
+ 
