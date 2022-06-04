@@ -18,4 +18,4 @@ Create pull request - on github
 
 Merge to main - on github 
 
- 
+Add all new changes at once: git add .
