@@ -1,0 +1,22 @@
+Link your style.css to HTML.
+
+Box model for component.
+
+1 - Margin (top, bottom, left, right)
+
+    margin: a b; -> a = top and bottom where b = left and right
+
+    margin: a b c d -> a=top and b=right where c = bottom and d=left
+
+2 - Padding (top, bottom, left, right) same as margin
+
+Box model -> Margin, Border, Padding, component.
+
+Flex Box:
+
+Parent component -> display: flex
+    Child components will align in a row next to each other
+
+
+Date : 6/6/22 -> flex row : padding and Border
+                 Flex col: margin (all types)
