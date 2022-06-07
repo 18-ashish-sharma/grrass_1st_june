@@ -1,0 +1,11 @@
+ls -> list of files and directories present at that location.
+cd -> change directory.
+
+mkdir -> create directory -> mkdir <folder name>
+touch -> create file -> touch <file name>
+
+rm -> remove file -> rm <file name>
+
+cd .. -> go back to previous directory.
+
+rm -rf -> remove directory recursively permanently.
