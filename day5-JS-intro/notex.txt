@@ -1,0 +1,30 @@
+JAVASCRIPT:
+
+print something -> console.log(something);
+Variables -> we can define in three ways.
+
+something is a variable here.
+console.log(something) -> it will print something.
+
+Types of variables: string(text), number , boolean, array, object.
+
+String: text -> should be in '' or ""
+Boolean: true, false
+Array: group of values -> anything can be included.
+Object: key value pairs. (dictionary, JSON)
+
+JSON: JavaScript Object Notation. read('https://www.w3schools.com/js/js_json_intro.asp'). file extension -> .json
+
+1) var -> 
+2) let ->
+3) const -> 
+
+Functions -> syntax -> function <name> () {write your code here}
+             calling function -> syntax -> <name>()
+
+             function(a,b) -> a,b are called props.
+
+
+Functions types:
+                1 - syncronous function. (no waiting)
+                2 - asynchronous function. (wait)
