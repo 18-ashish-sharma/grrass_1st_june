@@ -9,7 +9,7 @@ var ravi = {
 };
 
 function one(){
- console.log('Start')   
+ console.log('Start')
 }
 function two(){
     setTimeout(() => {

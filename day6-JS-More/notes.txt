@@ -1,0 +1,20 @@
+Event - Stack:
+            Order of execution is not guaranteed.
+
+Hoisting: 'https://developer.mozilla.org/en-US/docs/Glossary/Hoisting'
+
+Differences between var , let and const.
+
+
+Definitions:
+            Gloabal scope.
+            functional scope.
+            Diff b/w var and let and const.
+            Deff b/w let and var.
+
+
+Download: https://nodejs.org/en/download/
+
+
+Tomorrow class:
+Promises, async await, callback function, callback hell.
