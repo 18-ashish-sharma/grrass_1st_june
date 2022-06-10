@@ -1,0 +1,52 @@
+API -> Application programming interface.
+        API stands for Application Programming Interface.
+        In the context of APIs, the word Application refers to any software with a distinct function.
+        Interface can be thought of as a contract of service between two applications.
+        This contract defines how the two communicate with each other using requests and responses.
+
+Types of API:
+            1) GET:
+                A GET request,
+                in simple terms, is a way for you to grab data
+                from a data source with the help of the internet.
+            
+
+            2) POST: (ADD)
+                The POST request method requests that a web server accept the data enclosed
+                in the body of the request message, most likely for storing it.
+                It is often used when uploading a file or when submitting a completed web form.
+
+            Example:
+            URL: 'biryani'
+            Payload: money, name, phone, address, {coffee, cookies, burger}
+
+            
+            3) PUT: (EDIT)(Replace)
+                PUT is used to send data to a server to create/update a resource.
+            
+            Example:
+            Payload: money, name, phone, address, {coffee, cookies, burger, pizza}
+
+
+            4) DELETE:
+                    The HTTP DELETE method is used to delete a resource from the server.
+                    Unlike GET and HEAD requests,
+                    the DELETE requests may change the server state.
+                    Sending a message body on a DELETE request might cause some servers to reject the request.
+                    But you still can send data to the server using URL parameters.
+
+
+            Example:
+
+            Payload: {id(order)}
+            
+            5) PATCH:
+                    PATCH is a method of modifying resources where the client sends
+                    partial data that is to be updated without modifying the entire data.
+            
+
+            Example:
+            Payload: {id(order), tip:20rs}.
+
+            Order: + Tip: 20
+
