@@ -1,0 +1,18 @@
+Array functions:
+
+index: ->
+
+i++ -> add 1 to I meaning i++ = i+1 post increment
+++i ->  pre increment
+
+1 - array.length -> this will return the length of the array.
+2 - for loop -> format -> for(let j = 0; j < arr.length; j++)
+
+go through : https://www.w3schools.com/js/js_array_methods.asp
+
+Fake api: https://jsonplaceholder.typicode.com/
+
+Add chrome extension: https://chrome.google.com/webstore/search/json?hl=en :JSON Formatter
+
+Create at least 10 array methods and console the values in js file. (4-5 times) -> 25 mins
+Async - await -> create functions and console the values -> 20 mins
