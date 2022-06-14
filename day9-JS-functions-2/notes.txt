@@ -1,0 +1,14 @@
+Objects:
+
+Two ways of creating a new function : write notes:
+
+Data: https://jsonplaceholder.typicode.com/users
+
+Print -> address
+Print -> lat
+print -> bs
+
+Steps: -> 
+intall nodejs
+npm install -g create-react-app
+npx create-react-app name
