@@ -1,0 +1,29 @@
+DOM - Document Object Model
+
+Read: https://medium.com/devinder/react-virtual-dom-vs-real-dom-23749ff7adc9
+
+Why react is so famous.
+
+Diff b/w DOM and virtual DOM.
+
+Diff b/w static and dynamic website.
+
+NPM -> node package manager
+
+Advantages of NPM.
+
+Dependencies : all downloaded npm's
+Scripts : (write)
+
+Create .gitignore file: https://www.toptal.com/developers/gitignore
+
+class in HTML -> className in react js
+
+
+Import and export
+
+export default function <name> -> import <name> from 'path';
+
+export function <name> -> import {<name>} from 'path';
+
+importing css -> import './name.css';
