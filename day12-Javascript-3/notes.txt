@@ -1,0 +1,5 @@
+Q1-> diff bw console.log(something) and return something.
+
+Please use https://www.w3schools.com/js/js_arrays.asp
+
+Iteration, sort, 10 array methods.
