@@ -90,5 +90,25 @@ delete obj1['ss'];
 
 
 //  returns array of all the keys in the object
-console.log(Object.keys(obj1));
-console.log(Object.values(obj1));
+// console.log(Object.keys(obj1));
+// console.log(Object.values(obj1));
+
+const nums = [2,7,11,15];
+const target = 9;
+
+function ok(nums, target) {
+    let res = []
+    for(let i = 0; i<nums.length; i++){
+        //i=3
+        for(let j=i+1; j<4; j++){
+            // 
+            console.log(i,j)
+            // if(nums[i] + nums[j] == target){
+            //     res.push(i,j)        
+            // }
+        }
+    }
+    return res;
+};
+
+console.log(ok(nums, target));

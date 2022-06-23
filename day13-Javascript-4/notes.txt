@@ -1,3 +1,6 @@
 Create some setTimeout functions
 
 Iterate through the Object and add and delete and edit key value piars.
+
+Q1: https://leetcode.com/problems/two-sum/
+Q2: https://leetcode.com/problems/remove-element/
