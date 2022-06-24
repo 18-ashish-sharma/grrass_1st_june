@@ -1,0 +1,7 @@
+Q1: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+Q2: https://leetcode.com/problems/sqrtx/
+Q3: https://leetcode.com/problems/valid-palindrome/
+
+React js: Use https://mui.com/material-ui/getting-started/overview/
+
+Material UI create atleast 7 components. (Header, footer, side bar, right side bar, modal etc)
