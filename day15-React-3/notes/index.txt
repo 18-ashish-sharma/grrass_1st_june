@@ -1,0 +1,22 @@
+Exporting a function ->
+
+    export default <name> : import <name> from 'path';
+    export function <name>: import { <name> } form 'path';
+
+!important:
+
+1 - First letter of a react function is always capitalized.
+2 - Only use Arrow function or normal function in the whole project.
+3 - Follow a particular folder structure in the project.
+    a) components
+    b) pages
+
+4 - Create foolder for all components and name the export file to be index.js.
+
+
+
+
+Material UI -> npm install @mui/material @emotion/react @emotion/styled
+
+React states: https://www.geeksforgeeks.org/reactjs-state-react/#:~:text=The%20state%20is%20an%20instance,the%20lifetime%20of%20the%20component.
+React Hooks: https://reactjs.org/docs/hooks-intro.html
