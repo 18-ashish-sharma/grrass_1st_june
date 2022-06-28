@@ -1,0 +1,12 @@
+What is React state?
+
+Built in feature of React.
+It stores information about the component.
+
+Why string.
+
+Make calc -> using select box and using buttons.
+
+With proper css.
+
+Calc like: -> https://www.google.com/search?q=calculator+html&sxsrf=ALiCzsZsWwecD_gdLqGcMCB76Limy8IPqw:1656387430696&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj4yqqDnM_4AhUL7jgGHfHNC6sQ_AUoAXoECAEQAw&biw=1536&bih=714&dpr=1.25
