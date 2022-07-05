@@ -1,0 +1,3 @@
+Create promises:
+10 with .then and .catch.
+10 with async and await.
