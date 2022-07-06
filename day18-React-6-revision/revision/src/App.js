@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
+import Table from './table';
 
 function App() {
   // const [data, setData] = useState([]);
@@ -24,8 +25,12 @@ function App() {
       <button onClick={() => setCount(count + 1)}>Add</button>
       <h1>{change}</h1>
       <button onClick={() => setChange('world')}>Add</button>
+      <br />
+      <br />
+      <Table />
     </div>
   );
 }
 
 export default App;
+

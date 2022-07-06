@@ -1,3 +1,13 @@
 Create promises:
-10 with .then and .catch.
-10 with async and await.
+10 with if else.
+10 with async and await. -> try catch
+
+Promises :
+define these
+    Initiation -> when we run a funciton.
+
+    Pending -> till the time 
+    Resolve ->
+    Reject ->
+
+Create a table with animations.
