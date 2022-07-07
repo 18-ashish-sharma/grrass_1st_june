@@ -4,20 +4,12 @@ States, useEffect, routing, css.
 Tic Tac Toe in React
 
 
-Routing: a small description.
-
-
 Props in react js. https://reactjs.org/docs/components-and-props.html
 
-funciton add(a,b){
-    console.log(a)
-}
+1 - Routing: a small description.
 
-add(1,2)
+2 - react hooks: https://www.w3schools.com/react/react_hooks.asp#:~:text=Hooks%20were%20added%20to%20React,to%20remove%20classes%20from%20React.
 
+3 - diff b/w state and porps.
 
-react hooks: https://www.w3schools.com/react/react_hooks.asp#:~:text=Hooks%20were%20added%20to%20React,to%20remove%20classes%20from%20React.
-
-diff b/w state and porps.
-
-Asg:: -> Clicks odd event -> odd -> X even -> 0 -> https://www.geeksforgeeks.org/how-to-build-a-tic-tac-toe-game-using-react-hooks/
+4 - Asg:: -> Clicks odd event -> odd -> X even -> 0 -> https://www.geeksforgeeks.org/how-to-build-a-tic-tac-toe-game-using-react-hooks/
